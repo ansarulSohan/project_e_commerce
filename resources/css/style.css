@@ -1,0 +1,10 @@
+.buy-now-button {
+    background-image: linear-gradient(#ff589b, #ff136f);
+    text-decoration: none;
+    color: white;
+    font-size: 120%;
+}
+
+.orange-bg {
+    background-color: #fceae8;
+}
